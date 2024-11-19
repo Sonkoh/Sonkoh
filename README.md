@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Mauri.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Working as a Senior PHP Developer at damap.tech.
-- 💼 &nbsp; Actually creating codeinstances.mauri.vip.
-- 🌱 &nbsp; Learning more about Systems Design and Artificial Intelligence.
+<h2> Hey there! I'm Joaquín.</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -44,22 +37,13 @@ Here are some ideas to get you started:
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=1572B6)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-<!-- 
 Add techs:
 Git
 Java
 Docker
 Laravel
-Symfony
-Wordpress
 jQuery
 C# 
 Nginx
 Apache2
 DigitalOcean
-
-
-
--->
-
-<br/>
