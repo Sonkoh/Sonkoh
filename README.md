@@ -5,3 +5,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sonkoh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 📌 Private Repositories Work
+![]([https://github-contributor-stats.vercel.app/api?username=Sonkoh&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/Sonkoh/Sonkoh/blob/main/Captura%20de%20pantalla%202025-01-18%20184117.png?raw=true))
